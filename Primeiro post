@@ -1,14 +1,21 @@
 Na última década, os engenheiros da computação estão com a cabeça muito
-acima das montanhas. Eles hoje estão nas nuvens. “Cloud computing”, ou
+acima das montanhas. Eles agora vivem nas nuvens. “Cloud computing”, ou
 “computação em nuvem”, é o futuro. A humanidade os seus documentos, e arquivos irão estar
 virtualmente pairando por nós. Você acessa seus dados de todo computador,
-em todo lugar. E mais do que isso os programas inclusive ficam nas nuvens.
+em todo lugar. Além disso, os programas estão na nuvem.
 
 
 Na última década, engenheiros de computação passearam pelas montanhas de cabeça erguida. 
 Eles agora vivem nas nuvens. "Cloud Computing" ou "Cloud Computing" é o futuro. 
 Todos os seus documentos e arquivos serão mantidos por nós.
 Você pode acessar seus dados de qualquer computador, em qualquer lugar. Além disso, os programas estão na nuvem.
+
+
+Cloud computing nada mais é do que um termo para descrever um ambiente computacional baseado em uma imensa rede de servidores. 
+Uma definição simples seria a nuvem como um grande reservatório de recursos virtualizados que estão sempre acessíveis. 
+A ideia da nuvem é utilizar recursos ociosos de computadores independentes sem preocupação com localização física.
+
+Dicas AWS 001 
 
 O que  AWS Shield ?  Um serviço que protege seus aplicativos contra ataques distribuídos de negação de serviço (DDoS). 
 O que Amazon Inspector ? Um serviço que verifica a vulnerabilidades de segurança e desvios das melhores práticas de segurança dos aplicativos. 
