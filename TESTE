@@ -13,6 +13,10 @@ shutdown -s -t #### (#### é o tempo em segundos)
 8 Horas = 28800 Segundos -> shutdown -s -t 28800
 9 Horas = 32400 Segundos -> shutdown -s -t 32400
 10 Horas = 36000 Segundos -> shutdown -s -t 36000
+Cancelando um Agendamento
+Para Cancelar o agendamento de Desligamento do Windows, utilizamos o comando:
+
+shutdown -a
 
 Reiniciar o Comutador
 Caso você queira agendar um restart (reiniciar) do computador, pode utilizar a opção -r:
