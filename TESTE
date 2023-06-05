@@ -1,0 +1,30 @@
+Tempo para Reiniciar ou Desligar o Windows
+ agendamento do desligamento do Windows é realizado pelo comando shutdown, conforme abaixo:
+
+shutdown -s -t #### (#### é o tempo em segundos)
+
+1 Hora = 3600  Segundos -> shutdown -s -t 3600
+2 Horas = 7200 Segundos -> shutdown -s -t 7200
+3 Horas = 10800 Segundos -> shutdown -s -t 10800
+4 Horas = 14400 Segundos -> shutdown -s -t 14400
+5 Horas = 18000 Segundos -> shutdown -s -t 18000
+6 Horas = 21600 Segundos -> shutdown -s -t 21600
+7 Horas = 25200 Segundos -> shutdown -s -t 25200
+8 Horas = 28800 Segundos -> shutdown -s -t 28800
+9 Horas = 32400 Segundos -> shutdown -s -t 32400
+10 Horas = 36000 Segundos -> shutdown -s -t 36000
+
+Reiniciar o Comutador
+Caso você queira agendar um restart (reiniciar) do computador, pode utilizar a opção -r:
+
+shutdown -r – reiniciar o computador
+
+Exemplo: shutdown -r -t 3600
+
+O Windows será reiniciado após 1 Hora da execução do comando. 
+/c “comentário” Comentar o motivo da reinicialização ou do desligamento. Máximo de 512 caracteres permitido.
+/f Forçar o fechamento dos aplicativos em execução sem avisar os usuários.
+O parâmetro /f é implícito quando um valor maior que 0 é especificado para o parâmetro /t.
+/d [p|u:]xx:yy Forneça o motivo da reinicialização ou do desligamento.
+p indica que a reinicialização ou o encerramento é planejado.
+u indica que o motivo é definido pelo usuário.
